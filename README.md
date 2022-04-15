@@ -1,5 +1,5 @@
 # CS3244-Project
-Implementations for 3 models:
+Implementations of 3 models:
  - AlexNet
  - VGG-16
  - ResNet-50
